@@ -1,0 +1,117 @@
+body{
+    background-color: white;
+}
+
+
+
+.welcome h1{
+    border: 10px solid rgb(106, 128, 250);
+    border-radius: 36px;
+    color: rgb(241, 239, 246);
+    background-color: blue;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.navigation {
+    border: 10px solid rgb(106, 128, 250);
+    border-radius: 36px;
+    text-align: center;
+    background-color: blue;
+}
+
+.navigation a{
+    color: rgb(242, 243, 251);
+    font-size: 22px;
+    text-decoration: none;
+    display: block;
+    margin: 35px;
+}
+
+.login {
+    text-align: center;
+    border: 10px solid rgb(32, 60, 218);
+    border-radius: 36px;
+    padding: 30px;
+}
+
+.login label {  
+    display: block;
+    margin: 10px 0 5px;
+    color: rgb(32, 60, 218);
+}
+
+.login input {
+    border: 1px solid rgb(32, 60, 218);
+    background-color: rgb(32, 60, 218);
+    color: rgb(251, 252, 253);
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 36px;
+}
+
+
+.login button {
+    color: rgb(236, 232, 224);
+    background-color: rgb(32, 60, 218);
+    border: 1px solid rgb(32, 60, 218);
+    border-radius: 36px;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+.login button a {
+    color: aliceblue ;
+    text-decoration: none;
+}
+
+.ForgotPassword p {
+    background-color: blue;
+    border: 6px solid rgb(119, 138, 244);
+    color: aliceblue;
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+    border-radius: 36px;
+}
+
+.forgotBtns{
+    text-align: center;
+    background-color: blue;
+    border: 6px solid rgb(119, 138, 244);
+    margin: 50px;
+    padding: 100px;
+    border-radius: 36px;
+}
+
+.forgotBtns label{
+    display: block;
+    color: aliceblue;
+}
+
+.forgotBtns input{
+    border: 1px solid rgb(32, 60, 218);
+    background-color: rgb(32, 60, 218);
+    color: rgb(251, 252, 253);
+    padding: 15px;
+    margin: 20px;
+    border-radius: 36px;
+}
+
+.forgotBtns button{
+    border-radius: 36px;
+    color: aliceblue;
+    background-color: blue;
+    border: 1px solid white;
+    display: inline-block;
+    margin: 10px;
+    padding: 15px;
+}
+
+.forgotBtns button a{
+    margin-top: 12px;
+    padding: 5px;
+    color: aliceblue;
+    text-decoration: none;
+}
