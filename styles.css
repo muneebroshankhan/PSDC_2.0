@@ -115,3 +115,37 @@ body{
     color: aliceblue;
     text-decoration: none;
 }
+
+.sign_Up p{
+    background-color: blue;
+    color: white;
+    padding: 40px;
+    border-radius: 36px;
+    text-align: center;
+    border: 6px solid rgb(119, 138, 244);
+    font-size: 25px;
+}
+
+.sign_Up button{
+    background-color: blue;
+    display: inline-block;
+    border-radius: 36px;
+    padding: 15px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 4px solid rgb(119, 138, 244);
+}
+
+.sign_Up button a{
+    text-decoration: none;
+    color: white;
+    font-size: 33px;
+    font-weight: bolder;
+}
+
+.sign_Up button a :hover{
+    background-color: aqua;
+    color: black;
+}
+
